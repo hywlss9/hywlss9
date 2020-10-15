@@ -1,1 +1,2 @@
 Junior frontend developer
+👋
