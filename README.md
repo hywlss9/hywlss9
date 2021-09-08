@@ -1,2 +1,12 @@
-Junior frontend developer 👋  
-I'm using a react.
+### HyeongJin Park
+frontend developer 👋
+
+### History
+- Ablestor / 2019.06 ~
+
+### Stack
+- javascript
+- typescript
+- react
+- electron
+- meteor
