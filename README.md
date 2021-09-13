@@ -1,5 +1,5 @@
 ### HyeongJin Park
-frontend developer 👋
+frontend developer
 
 ### History
 - Ablestor / 2019.06 ~
