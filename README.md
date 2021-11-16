@@ -2,7 +2,7 @@
 frontend developer
 
 ### History
-- Ablestor / 2019.06 ~
+- Ablestor / 2019.09 ~
 
 ### Stack
 - javascript
