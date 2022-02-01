@@ -1,12 +1,12 @@
 ### HyeongJin Park
-frontend developer
+Frontend Developer
 
 ### History
-- Ablestor / 2019.09 ~
+- Ablestor Inc. / 2019.09 ~
 
 ### Stack
-- javascript
-- typescript
-- react
-- electron
-- meteor
+- Javascript
+- Typescript
+- React
+- Electron
+- Meteor
