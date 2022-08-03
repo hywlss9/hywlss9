@@ -3,7 +3,7 @@ Frontend Developer
 
 ### History
 - Seoul Digitech High School / 2017.03 ~ 2020.02
-- Ablestor Inc. / 2019.09 ~
+- Ablestor Inc. / 2019.06 ~
 
 ### Stack
 - JavaScript
