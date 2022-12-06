@@ -14,4 +14,6 @@ Frontend Developer
 
 ### Project
 - [Mommoss(desktop)](https://mommoss.com/)
+  > [Notion](https://ablestor.notion.site/99fb9f1b2cc4489db5e2729e8d5344d1)
 - [Monglebox](https://monglebox.com/)
+  > [Notion](https://monglebox.notion.site/monglebox/f3053cb0c9634ea69aa492fcfb9561d4)
