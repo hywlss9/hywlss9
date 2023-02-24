@@ -2,8 +2,9 @@
 Frontend Developer
 
 ## History
-- Seoul Digitech High School / 2017.03 ~ 2020.02
-- Ablestor Inc. / 2019.06 ~
+- 서울디지텍고등학교 / 2017.03 ~ 2020.02
+- (주)에이블스토어 / 2019.06 ~
+- 광운대학교 / 2023.03 ~
 
 ## Stack
 - JavaScript
