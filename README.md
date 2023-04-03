@@ -23,4 +23,4 @@ Frontend Developer
     - [Link](https://demo.monglebox.com/)
     - [Notion](https://monglebox.notion.site/monglebox/f3053cb0c9634ea69aa492fcfb9561d4)
 3. Kcplaa-Mommoss
-    - [Link]((https://kcplaa.mommoss.com/)
+    - [Link](https://kcplaa.mommoss.com/)
