@@ -2,10 +2,11 @@
 Frontend Developer
 
 ## History
-- 서울디지텍고등학교 / 2017.03 ~ 2020.02
-- (주)에이블스토어 / 2019.06 ~ 2023.04
-- 광운대학교 / 2023.03 ~
 - 서울디지텍고등학교 강사 / 2023.05
+- 광운대학교 / 2023.03 ~
+- (주)에이블스토어 / 2019.06 ~ 2023.04
+- 서울디지텍고등학교 / 2017.03 ~ 2020.02
+
 
 ## Stack
 - JavaScript
@@ -14,14 +15,8 @@ Frontend Developer
 - Electron
 - Meteor
 
-## Project
-1. Kacpta-Mommoss(desktop)
-    - [Home page](https://mommoss.com/)
-    - [Link](https://update.mommoss.com/)
-    - [Notion](https://ablestor.notion.site/99fb9f1b2cc4489db5e2729e8d5344d1)
-2. Monglebox
-    - [Home page](https://monglebox.com/)
-    - [Link](https://demo.monglebox.com/)
-    - [Notion](https://monglebox.notion.site/monglebox/f3053cb0c9634ea69aa492fcfb9561d4)
-3. Kcplaa-Mommoss
-    - [Link](https://kcplaa.mommoss.com/)
+<div align=center>
+    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhywlss9&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
