@@ -15,6 +15,7 @@ Frontend Developer
 - React
 - Electron
 - Meteor
+- Ionic
 
 <div align=center>
     
