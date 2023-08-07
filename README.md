@@ -13,6 +13,7 @@ Frontend Developer
 - JavaScript
 - TypeScript
 - React
+- NextJS
 - Electron
 - Meteor
 - Ionic
