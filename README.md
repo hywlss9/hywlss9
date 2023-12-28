@@ -8,16 +8,6 @@ Frontend Developer
 - (주)에이블스토어 / 2019.06 ~ 2023.04
 - 서울디지텍고등학교 / 2017.03 ~ 2020.02
 
-
-## Stack
-- JavaScript
-- TypeScript
-- React
-- NextJS
-- Electron
-- Meteor
-- Ionic
-
 ## Blog
 [Link](https://hywlss9.github.io)
 
